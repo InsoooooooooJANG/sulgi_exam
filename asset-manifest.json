@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sulgi_exam/static/css/main.fe328840.css",
+    "main.js": "/sulgi_exam/static/js/main.2b886a6b.js",
+    "index.html": "/sulgi_exam/index.html",
+    "main.fe328840.css.map": "/sulgi_exam/static/css/main.fe328840.css.map",
+    "main.2b886a6b.js.map": "/sulgi_exam/static/js/main.2b886a6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe328840.css",
+    "static/js/main.2b886a6b.js"
+  ]
+}
